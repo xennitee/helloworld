@@ -1,0 +1,12 @@
+.stylePageTitle {
+    font-family: Satisfy;
+    color: sienna;
+}
+
+hr.chDiv {
+    border-style: dotted none dashed none;
+    border-width: 1px;
+    padding: 1px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
